@@ -12,9 +12,9 @@ Architecture:
 #### Contributors Note: Create a branch for changes. Do NOT push in main. :)
 
 Team Members:
+- Manasee Parulekar
 - Divesh Hariani
 - Bhuvana Raisinghani
 - Amit Chabbria
 - Varun Bhat
--  Manasee Parulekar
 - Shripad Kulkarni
